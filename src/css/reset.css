@@ -1,0 +1,11 @@
+* {
+    
+ /* pra justificar é alt + shift e pra ocultar é ctrl-b e pra comentar é ctrl doispointo e isso aqui do reset é só pra deixar clean   */
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul {
+    list-style: none;
+}
